@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RiskDecisions" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-04-07T09:46:09" hostname="Apples-MacBook-Pro.local" time="395.81">
+  <properties/>
+  <testcase name="Verify FinancialServices/FinancialCrimeCompliance Element is Visible Under Industry Dropdown" classname="RiskDecisions" time="18.396"/>
+  <testcase name="Verify FinancialServices/FraudAndIdentityManagement Element is Visible and Clickable" classname="RiskDecisions" time="70.754"/>
+  <testcase name="Verify FinancialServices/CustomerDataManagement Element is Visible and Clickable" classname="RiskDecisions" time="16.864"/>
+  <testcase name="Verify FinancialServices/CreditRiskAssessment Element is Visible and Clickable" classname="RiskDecisions" time="66.671"/>
+  <testcase name="Verify FinancialServices/CollectionsAndRecovery Element is Visible and Clickable" classname="RiskDecisions" time="65.638"/>
+  <testcase name="Verify FinancialServices/InvestigationsAndDueDiligence Element is Visible and Clickable" classname="RiskDecisions" time="15.323"/>
+  <testcase name="Verify Financial Services Element is Visible and Clickable" classname="RiskDecisions" time="67.784"/>
+  <testcase name="Verify Insurance Element is Visible and Clickable" classname="RiskDecisions" time="44.938"/>
+  <testcase name="Verify Life and Pensions Element is Visible and Clickable" classname="RiskDecisions" time="13.631"/>
+  <testcase name="Verify Corporations and Non-Profits Element is Visible and Clickable" classname="RiskDecisions" time="15.809"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>
